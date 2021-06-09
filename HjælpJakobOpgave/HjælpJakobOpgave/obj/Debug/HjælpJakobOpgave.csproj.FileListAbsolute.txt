@@ -1,0 +1,7 @@
+C:\Users\mort286f\source\repos\HjælpJakobOpgave\HjælpJakobOpgave\bin\Debug\HjælpJakobOpgave.exe.config
+C:\Users\mort286f\source\repos\HjælpJakobOpgave\HjælpJakobOpgave\bin\Debug\HjælpJakobOpgave.exe
+C:\Users\mort286f\source\repos\HjælpJakobOpgave\HjælpJakobOpgave\bin\Debug\HjælpJakobOpgave.pdb
+C:\Users\mort286f\source\repos\HjælpJakobOpgave\HjælpJakobOpgave\obj\Debug\HjælpJakobOpgave.csprojAssemblyReference.cache
+C:\Users\mort286f\source\repos\HjælpJakobOpgave\HjælpJakobOpgave\obj\Debug\HjælpJakobOpgave.csproj.CoreCompileInputs.cache
+C:\Users\mort286f\source\repos\HjælpJakobOpgave\HjælpJakobOpgave\obj\Debug\HjælpJakobOpgave.exe
+C:\Users\mort286f\source\repos\HjælpJakobOpgave\HjælpJakobOpgave\obj\Debug\HjælpJakobOpgave.pdb
